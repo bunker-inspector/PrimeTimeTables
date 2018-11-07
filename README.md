@@ -1,6 +1,12 @@
 # PrimeTimeTables
 Generates prime number time tables
 
+This project uses the Haskell Stack toolchain
+Can be build from project root with: ```stack build``` 
+and run with ```stack exec PrimeTimeTables-exe```
+Run tests with ```stack test```
+Manually test library functinos with ```stack ghci```
+
 Example output: 
 ```
 Drawing times table for 5
