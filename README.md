@@ -2,7 +2,8 @@
 Generates prime number time tables
 
 Example output: 
-```Drawing times table for 5
+```
+Drawing times table for 5
         2     3     5     7    11
     |-----------------------------|
   2 |   4 |   6 |  10 |  14 |  22 |
